@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Offensive Security CTF](https://www.google.com](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A))
+- [Offensive Security CTF](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A))
 - [SIEM Splunk Digital Forensics Lab](https://www.google.com)
 - [OPNsense Firewall Configuration Lab](https://www.google.com)
 
