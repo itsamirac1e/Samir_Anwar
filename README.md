@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Samir! - <a href="www.linkedin.com/in/samir-anwar-8472ckj">Cybersecurity Junior</a> </h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- [Offensive Security CTF](https://www.google.com)
+- [SIEM Splunk Digital Forensics Lab](https://www.google.com)
+- [OPNsense Firewall Configuration Lab](https://www.google.com)
+
+<h2>🎓 Certifications</h2>
+
+- CompTIA Security+ (In Progress)
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/samir-anwar-8472ckj
 
 <!--
-**itsamirac1e/itsamirac1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
