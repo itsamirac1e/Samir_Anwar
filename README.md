@@ -4,7 +4,7 @@
 
 - [Offensive Security CTF](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A)
 - [SIEM Splunk Digital Forensics Lab](https://www.google.com)
-- [OPNsense Firewall Configuration Lab](https://www.google.com)
+- [OPNsense Firewall Configuration Lab](https://github.com/itsamirac1e/OPNsense-Configuration-Project/blob/main/README.md)
 
 <h2>🎓 Certifications</h2>
 
