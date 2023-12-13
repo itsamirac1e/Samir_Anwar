@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Offensive Security CTF](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A) - In Progress
-- SIEM Splunk Digital Forensics Lab - Still Loading
+- [Offensive Security CTF](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A)
 - [OPNsense Firewall Configuration Lab](https://github.com/itsamirac1e/OPNsense-Configuration-Project/blob/main/README.md)
 
 <h2>🎓 Certifications</h2>
