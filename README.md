@@ -1,4 +1,4 @@
-<h1>Samir Austin Anwar <br/><a href="https://github.com/itsamirac1e">Information Security Enthusiast</a>, <a href="https://www.linkedin.com/in/samir-anwar-8472ckj">Cybersecurity Junior</a></h1>
+<h1><b>Samir Austin Anwar</b></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
