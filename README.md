@@ -1,13 +1,14 @@
 <h1><b>Samir Austin Anwar</b></h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - [Offensive Security CTF](https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A)
 - [OPNsense Firewall Configuration Lab](https://github.com/itsamirac1e/OPNsense-Configuration-Project/blob/main/README.md)
 
-<h2>🎓 Certifications</h2>
+<h2>🎓 Relevant Education</h2>
 
-- CompTIA Security+ (In Progress)
+<li>B.S. in Computer Science | University of Texas at Permian Basin | May 2023</li>
+<li>Cybersecurity Ceritification | University of Texas at Austin | December 2023</li>
   
 <h2> 🤳 Connect with me:</h2>
 
